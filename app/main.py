@@ -29,6 +29,8 @@ class VideoGenerationRequest(BaseModel):
     language: str = "en"
     avatar: str = "default"
 
+
+
 @app.get("/")
 def read_root():
     return {"message": "Welcome to Viducate"}
