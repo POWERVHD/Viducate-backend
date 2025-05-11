@@ -29,7 +29,7 @@ This project provides the backend API services for Viducate, built using FastAPI
 ## 🛠️ Technology Stack
 
 - ⚡ **FastAPI** — Modern, fast web framework for building APIs
-- 🐍 **Python ** — Programming language
+- 🐍 **Python** — Programming language
 - 🔒 **Pydantic** — Data validation and settings management
 - 🚦 **Uvicorn** — ASGI server for running the application
 
